@@ -1,13 +1,57 @@
 {
-	"name": "Mysztaria",
-	"source": "https://raw.githubusercontent.com/Benkcsa/Mystitems/main/Mysztitems.json",
-	"page": 1,
-	"entries": [
-		"wondrous, rare (requires attunement)",
-		"This light iron helm is painted in a quickly fading green and has small ivory wings jutting from each side.",
-		"Once per short rest as an action you can activate the helm and the wings begin beating until they almost blur and a faint hum can be heard.",
-		"When you activate the helmet you can immediately move up to 60 feet in a straight line. As the wind buffets your face you realize you are not teleporting, but actually running to the spot you envision in your mind.",
-		"While moving in this way you do not provoke attacks of opportunity and you are able to move across liquids.",
-		"The wings keep beating for a while after you activate the helmet, slowly winding down over time. For the next 10 minutes as a reaction on any creature's turn you can gain 1 level of {@condition exhaustion} to repeat the 60 foot movement. Exhaustion gained this way lasts until your next short rest."
+	"_meta": {
+		"sources": [
+			{
+				"json": "Mystitems",
+				"abbreviation": "Mystitems",
+				"full": "Mystitems",
+				"authors": [
+					"Benkcsa"
+				],
+				"convertedBy": [
+					"Benkcsa"
+				],
+				"url": "",
+				"version": "1.0",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": ,
+		"dateLastModified": 
+	},
+	"item": [
+		{
+			"name": "Repítőkészülékek",
+			"wondrous": false,
+			"tier": "",
+			"rarity": "",
+			"source": "Mystitems",
+			"entries": [
+				"Ezzel a repítőkészülékkel, ha egy reakcióként kiszórod a szélbe, célpontod 60 lábon belül a feather fall spell hatása alá kerül. Egyszer használatos és mindegyik elhasznált darab egy célpontra hat, de egy reakcióval többet is el lehet használni."
+			]
+		},
+		{
+			"name": "Varázsdetektáló óra
+",
+			"wondrous": false,
+			"tier": "",
+			"rarity": "",
+			"source": "Mystitems",
+			"entries": [
+				"Egy díszes réz óramű tulajdonosa vagy, de ez nem egy egyszerű zsebóra. Ha egyszer megnyomod a gombot, ami a tekerő helyén van, akkor felnyílik az enyhén ívelt fedő üveglap. Egyetlen mutató van, órák és percek helyett pedig a mágia különböző iskoláinak szimbóluma van felfestve.
+			Ha ekkor még egyszer megnyomod a gombot, beindul és az óramű halk kattogással működésbe lép és ha 30 lábon belül varázslatot érzékel, felragyog az óra szélén körbevezetett díszítés. Ekkor használhatsz egy akciót arra, hogy a felnyitott üvegen keresztül körbenézz, rajta keresztül pedig minden látható varázslatot hordozó lény és tárgy körül halvány aura látszódik, felé tartva a mutató rááll arra a szimbólumra, amilyen típusú varázslatot érzékel, a szimbóluma pedig felragyog.Aktiválást követően 10 percig működik, ezután 12 óra elteltével használhatod ismét. Referenciaként a Detect Magic spell tulajdonságait használja."
+			]
+		},
+		{
+			"name": "Sokszínűség köpönyege",
+			"wondrous": false,
+			"tier": "",
+			"rarity": "",
+			"source": "Mystitems",
+			"entries": [
+				"Mikor ezt az köpönyeget viseled, egy bónusz akció használatával megváltoztathatod a színét és a rajta található alakzatokat és azok színét. A köpeny formája, tisztasága, állapota nem változik meg és nem ad bónuszt semmilyen képességre."
+			]
+		},
+		
 	]
 }
